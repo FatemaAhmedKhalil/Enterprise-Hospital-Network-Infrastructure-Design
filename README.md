@@ -44,4 +44,4 @@ The network is logically divided into several functional zones:
 ---
 
 ## 📁 Project Documentation
-📄 **[View Full Project PDF](./Hospital\ Network.pdf)**
+📄 **[View Full Project PDF](./HospitalNetwork.pdf)**

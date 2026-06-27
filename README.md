@@ -5,7 +5,7 @@ This repository contains the comprehensive design and configuration of an enterp
 - The simulation and configuration were developed using Cisco Packet Tracer.
 
 **Team Asjed**
-* Prepared by: Tasneem Adel Khamis Soliman & Fatma Ahmed Khalil Ibrahim
+Prepared by: Tasneem Adel Khamis Soliman & Fatema Ahmed Khalil Ibrahim
 
 ---
 
